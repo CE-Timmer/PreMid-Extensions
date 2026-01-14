@@ -1,2 +1,2 @@
 # PreMid-Extensions
-collection of the premid extensions i made
+helpers for the premid extensions i made
